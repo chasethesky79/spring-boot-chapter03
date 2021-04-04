@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/microservices/recommendation-service/recommendation-service.iml" filepath="$PROJECT_DIR$/microservices/recommendation-service/recommendation-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservices/review-service/review-service.iml" filepath="$PROJECT_DIR$/microservices/review-service/review-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-boot-chapter03.iml" filepath="$PROJECT_DIR$/.idea/spring-boot-chapter03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/util/util.iml" filepath="$PROJECT_DIR$/util/util.iml" />
     </modules>
   </component>
 </project>

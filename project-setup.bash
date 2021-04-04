@@ -63,3 +63,14 @@ spring init \
 --groupId=se.magnus.api \
 --version=1.0.0-SNAPSHOT \
 api
+
+spring init \
+--boot-version=2.4.4 \
+--build=maven \
+--java-version=1.8 \
+--packaging=jar \
+--name=util \
+--package-name=se.magnus.util \
+--groupId=se.magnus.util \
+--version=1.0.0-SNAPSHOT \
+util
